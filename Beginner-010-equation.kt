@@ -2,7 +2,7 @@ package org.kotlin_Coming_Try_it
 import kotlin.math.sqrt // 開根號
 
 fun main() {
-    val (a,b,c)= readln().split(" ").map {it.toDouble()}
+    val (a, b, c) = readln().split(" ").map(String::toDouble)
 
     val D= b * b - 4 * a * c
 
