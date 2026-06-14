@@ -1,5 +1,5 @@
 package org.kotlin_Coming_Try_it
-import kotlin.math.sqrt
+import kotlin.math.sqrt // 開根號
 
 fun main() {
     val (a,b,c)= readln().split(" ").map {it.toDouble()}
