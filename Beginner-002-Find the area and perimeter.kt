@@ -1,5 +1,5 @@
 package org.kotlin_Coming_Try_it
-import kotlin.math.pow
+import kotlin.math.pow // 次方
 
 fun main() {
     val x= readln().toFloat()
